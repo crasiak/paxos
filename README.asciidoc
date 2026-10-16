@@ -1,3 +1,5 @@
+NOTE: *Personal fork — not intended for public consumption.* This is a personal working copy of https://github.com/cocagne/paxos[cocagne/paxos], kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 Plain Paxos 
 ===========
 Tom Cocagne <tom.cocange@gmail.com>
